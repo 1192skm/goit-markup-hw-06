@@ -757,9 +757,6 @@ body {
 }
 .checkbox-input:focus + .checkbox-icon {
     border-color: var(--primary-brand);
-    background-image: url(../images/click.svg);
-    background-size: contain;
-    background-origin: border-box;
 }
 .checkbox-title {
     padding-left: 8px;
